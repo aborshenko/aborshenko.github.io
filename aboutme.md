@@ -3,6 +3,7 @@ title: About me
 subtitle: Welcome to Arthur's web log
 show-avatar: true
 use-site-title: true
+layout: page
 
 
 ---
