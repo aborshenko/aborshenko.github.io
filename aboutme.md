@@ -20,4 +20,5 @@ use-site-title: true
 <li>Command Line Interface</li>
 </ul>
 <p>I have a tendency to overthink things so I try to write to a theoretical audience of like-minded, similarly-skilled people. This helps me organize ideas, and focus on the one topic and scope.</p>
+<p>I live in Brooklyn with my beautiful wife, Esther and our amazing son, Nathan.</p>
 
